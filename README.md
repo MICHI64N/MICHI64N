@@ -1,3 +1,4 @@
-I am **Samantha Bales**, a dual-enrolled high school student pursuing a B.S. in Technology Project Management from Davenport University. Website development is my current passion and what I want to do as a career in the future. Speaking of, I am in the middle of creating a personal website containing:<br>
-* 🐇 a professional portfolio, contacts, etc.<br>
-* ❄️ pages showcasing my silliness.
+I am **Samantha Bales**, a Davenport University student pursuing a B.S. in Technology Project Management.
+
+- My career plans for the future involve website development work: to be a webmaster or a website designer.
+- The personal website is still in progress, but has been put on hold.
